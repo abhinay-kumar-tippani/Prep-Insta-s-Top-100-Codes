@@ -14,7 +14,7 @@ void main() {
 }
 
 
-// Method 3: Using the ternary operator
+// Method 2: Using the ternary operator
 #include<stdio.h>
 void main(){
     int n;
